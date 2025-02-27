@@ -1,0 +1,29 @@
+.background{
+  background-color: red;
+  box-sizing: margin-box;
+  max-width: 500px;
+  max-height: 100px;
+
+
+}
+.parent{
+  width: 150px;
+  height: 150px;
+  border-width: 10px;
+  border-color:black;
+  border-style: solid;
+  padding-left: 10px;
+  padding-right:10px;
+  padding-top:10px;
+  padding-bottom:10px;
+  background-image: url(images.jpg);
+
+  background-position: center;
+  background-size: cover;
+
+}
+.child{
+    width:100px;
+    height:100px;
+    padding:10px;
+}

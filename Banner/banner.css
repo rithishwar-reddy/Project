@@ -1,0 +1,83 @@
+.title {
+  font-size: 100px;
+}
+html {
+  background:url("iron-man-game.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: difference;
+  
+}
+
+.hero1 {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.img1 {
+  background: url("https://rukminim2.flixcart.com/image/850/1000/xif0q/poster/z/x/x/medium-poster-design-no-3366-ironman-poster-ironman-posters-for-original-imaggby9s83dgghy.jpeg?q=90&crop=false");
+  -webkit-background-clip: text;
+  background-clip: text;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: transparent;
+}
+.img2 {
+  background: url("https://rukminim2.flixcart.com/image/850/1000/l09w8sw0/poster/y/g/l/medium-the-avengers-iron-man-on-fine-art-paper-hd-quality-original-imagc3hc7rgwksjx.jpeg?q=90&crop=false");
+  -webkit-background-clip: text;
+  background-clip: text;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: transparent;
+}
+.img3 {
+  background: url("https://cdn.britannica.com/49/182849-050-4C7FE34F/scene-Iron-Man.jpg");
+  -webkit-background-clip: text;
+  background-clip: text;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: transparent;
+}
+.img4 {
+  background: url("https://i.pinimg.com/736x/b1/dc/9b/b1dc9bb20d98f7203ef441f0d76faf4b.jpg");
+  -webkit-background-clip: text;
+  background-clip: text;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: transparent;
+}
+.img6 {
+  background: url("https://i.pinimg.com/originals/e5/e8/77/e5e87741896dfa3bb578e1c2783ccbd3.jpg");
+  -webkit-background-clip: text;
+  background-clip: text;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: transparent;
+}
+.img7 {
+  background: url("https://i.pinimg.com/474x/48/bc/22/48bc22c2e7a0e07f2638f15d485d9b86.jpg");
+  -webkit-background-clip: text;
+  background-clip: text;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: transparent;
+}
+
+.img8 {
+  background: url("https://i.pinimg.com/736x/b1/dc/9b/b1dc9bb20d98f7203ef441f0d76faf4b.jpg");
+  -webkit-background-clip: text;
+  background-clip: text;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: transparent;
+}
